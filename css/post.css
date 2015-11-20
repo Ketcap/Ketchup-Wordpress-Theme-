@@ -3,7 +3,10 @@
   margin-bottom: 30px;
 }
 .featured-image{
-  height: 300px;
+  width: 100%;
+}
+img{
+  width: 100%;
 }
 .post-title{
   position: absolute;
