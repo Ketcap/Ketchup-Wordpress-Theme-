@@ -8449,9 +8449,6 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     .no-marg-bot{
       margin-bottom: 0;
     }
-    .ketchup-img{
-      border-radius: 0 0 50% 50%;
-    }
     ul.tags li{
       width: auto;
       padding: 1px;
@@ -8468,18 +8465,6 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     .chip{
       margin: 2px;
     }
-    .col .s12 .m4 img{
-      -webkit-transition: all  500ms ease;
-      -moz-transition: all  500ms ease;
-      -o-transition: all  500ms ease;
-      transition: all  500ms ease;
-    }
-    .col .s12 .m4 img:hover {
-      transform:scale(1.1);
-    }
-    .read-more{
-      color:#388E3C;
-    }
     .socials li{
       float :left;
       font-size:1.2em;
@@ -8488,36 +8473,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
       margin: 3px;
       border-radius: 3px;
     }
-
-    /* Post Page Classes*/
-    .featured{
-      position: relative;
-      margin-bottom: 30px;
-    }
-    .featured-image{
-      height: 300px;
-    }
-    .post-title{
-      position: absolute;
-      bottom:20px;
-      left:20px;
-      font-size: 1.5em;
-      color:#fff;
-    }
-    .fixed-action-btn{
-      position: absolute !important;
-      bottom: -20px;
-      right: 25px;
-    }
-    .fixed-action-btn ul{
-      width: 56px !important;
-      height: 120px !important;
-      right:-5px !important;
-      top:105px !important;
-    }
-    .fixed-action-btn ul li{
-      text-align: center;
-    }
-    p{
-      text-indent: 15px;
+    .ketchup-img{
+      border-radius: 0 0 50% 50%;
+      margin-bottom: 5px;
     }

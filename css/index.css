@@ -1,0 +1,13 @@
+
+.col .s12 .m4 img{
+  -webkit-transition: all  500ms ease;
+  -moz-transition: all  500ms ease;
+  -o-transition: all  500ms ease;
+  transition: all  500ms ease;
+}
+.col .s12 .m4 img:hover {
+  transform:scale(1.1);
+}
+.read-more{
+  color:#388E3C;
+}
