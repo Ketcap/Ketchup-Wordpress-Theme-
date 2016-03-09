@@ -9,8 +9,7 @@ $(document).ready(function(){
       hover: false, // Activate on hover
       gutter: 0, // Spacing from edge
       belowOrigin: true, // Displays dropdown below the button
-    }
-  );
+    });
 
 
 
